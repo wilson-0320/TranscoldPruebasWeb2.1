@@ -1,0 +1,210 @@
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.dll.config
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.pdb
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\WebForms_Basic.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\csc.exe
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\csi.exe
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\AjaxControlToolkit.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\DevExpress.Data.v18.1.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\MessagingToolkit.QRCode.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\PanelManager.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\QRCoder.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\WebGrease.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\DevExpress.Data.v18.1.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.TransWebService.resources
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.Resources.resources
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.dll
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\WebForms_Basic.xml
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.pdb
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.CopyComplete
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.dll.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TranscoldPruebasWeb2.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\WebForms_Basic.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\csc.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\csc.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\csc.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\csi.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\csi.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.AppContext.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.Collections.Immutable.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.IO.FileSystem.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\System.Reflection.Metadata.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\vbc.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\vbc.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\vbc.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\VBCSCompiler.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\roslyn\VBCSCompiler.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\AjaxControlToolkit.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Antlr3.Runtime.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\AspNet.ScriptManager.bootstrap.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\AspNet.ScriptManager.jQuery.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\DevExpress.Data.v18.1.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\DLL2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\MessagingToolkit.QRCode.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.Web.Infrastructure.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Newtonsoft.Json.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\PanelManager.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\QRCoder.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\System.Web.Optimization.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\WebGrease.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TransPruebCons.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Ionic.Zip.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\DevExpress.Data.v18.1.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\DLL2.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\System.Web.Optimization.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Newtonsoft.Json.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Antlr3.Runtime.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TransPruebCons.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TransPruebCons.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TransPruebCons.dll.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\es\System.Web.Optimization.resources.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\bin\TransPruebCons.XmlSerializers.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.AssemblyReference.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.TransWebService.resources
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.Resources.resources
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.GenerateResource.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.CoreCompileInputs.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.vbproj.CopyComplete
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\WebForms_Basic.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2\obj\Release\TranscoldPruebasWeb2.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TranscoldPruebasWeb2.dll.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TranscoldPruebasWeb2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TranscoldPruebasWeb2.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\WebForms_Basic.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\csc.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\csc.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\csc.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\csi.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\csi.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.AppContext.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.Collections.Immutable.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.IO.FileSystem.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\System.Reflection.Metadata.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\vbc.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\vbc.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\vbc.rsp
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\VBCSCompiler.exe
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\roslyn\VBCSCompiler.exe.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\AjaxControlToolkit.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Antlr3.Runtime.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\AspNet.ScriptManager.jQuery.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\DevExpress.Data.v18.1.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\DLL2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\MessagingToolkit.QRCode.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.Web.Infrastructure.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Newtonsoft.Json.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\PanelManager.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\QRCoder.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\System.Web.Optimization.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\WebGrease.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TransPruebCons.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\MySql.Data.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Ionic.Zip.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\DevExpress.Data.v18.1.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\DLL2.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\DLL2.dll.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\System.Web.Optimization.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Newtonsoft.Json.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Antlr3.Runtime.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TransPruebCons.pdb
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TransPruebCons.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TransPruebCons.dll.config
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\es\System.Web.Optimization.resources.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\bin\TransPruebCons.XmlSerializers.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.vbproj.AssemblyReference.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.TransWebService.resources
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.Resources.resources
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.vbproj.GenerateResource.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.vbproj.CoreCompileInputs.cache
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.vbproj.CopyComplete
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.dll
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\WebForms_Basic.xml
+D:\wuzpa\visual studio\TranscoldPruebasWeb2Wuzpa\obj\Release\TranscoldPruebasWeb2.pdb
